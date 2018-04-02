@@ -1,0 +1,11 @@
+Ga:
+R2 U R' U R' U' R U' R2 (D U') R' U R D'
+
+Gb:
+R' U' R (U D') R2 U R' U R U' R U' R2 D
+
+Gc:
+R2 U' R U' R U R' U R2 (D' U) R U' R' D
+
+Gd:
+R U R' (U' D) R2 U' R U' R' U R' U R2 D'

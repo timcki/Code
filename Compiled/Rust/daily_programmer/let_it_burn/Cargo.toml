@@ -1,0 +1,7 @@
+[package]
+name = "let_it_burn"
+version = "0.1.0"
+authors = ["ft3"]
+
+[dependencies]
+ansi_term = "*"

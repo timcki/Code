@@ -1,0 +1,251 @@
+{$1#Panna swieta, co Jasnej broni Czestochowy
+I w Ostrej swieci Bramie! Ta, co grod 
+zamkowy Nowogrodzki ochrania z jego wiernym ludem! 
+Jak cie dziecko do zdrowia powrocila cudem 
+(Gdy po hucznym bankiecie, pod Jejze opieke Ofiarowany, 
+martwa podniosles powieke; I zaraz moglbys pieszo, 
+do Jej swiatyn progu Isc za wrocone zycie podziekowac Bogu), 
+Tak cie powroci cudem na Ojczyzny lono. 
+Tymczasem przenosi twa dusze uteskniona 
+Do tych pagorkow lesnych, do tych lak zielonych, 
+Szeroko nad blekitnym Niemnem rozciagnionych;
+
+Nie jestes pewien, gdzie dokladnie sie znajdujesz. Przy lekkim uniesieniu glowy niesamowity bol daje o sobie znac. Z trudem podnosisz sie i rozgladasz. Caly jestes brudny,
+w nocy spadl deszcz i lezales w blocie. Postanawiasz ruszyc z miejsca i lepiej 
+zorientowac sie we wlasnej sytuacji: 
+@[Czekasz na cud]$2
+@[Idziesz w strone swiatla, to moze byc skraj lasu]$3
+@[Spacer po zabloconym lesie bylby niczego sobie]$4@}
+
+{$2#Siedzisz w pokrzywach:
+@[Podnosisz kamien i rzucasz nim w krzaki]$5
+@[Podnosisz patyk i zaczynasz rysowac w blocie]$6
+@[Jednak chcesz sie przespacerowac po lesie]$4@}
+
+{$5#Znajdujesz kamien pod reka i rzucasz nim w najblizsze skupisko krzakow. Nagle rozlegla sie glosne ryczenie. Z gestwiny wylania sie ogromny niedzwiedz, ktory najwidoczniej tam drzemal. Musisz szybko zdecydowac, co robic dalej...
+@[Podnosisz kamien i rzucasz nim w niedzwiedzia]$12
+@[Jestes sofista. Ten niedzwiedz tak naprawde nie istnieje]$12
+@[Uciekasz ile sil w nogach]$13@}
+
+{$12#Twoje dni sa policzone. Niedzwiedz, pomimo zaspania, staje na tylnych nogach i mocnym uderzeniem lapy rozdziera ci glowe.
+@[Trudno.]$100@}
+
+{$100#Umarles. To koniec. Ciemnosc cie otacza. Widzisz wiele blakajacych sie dusz, a wsrod nich dwoje malych dzieci trzymajacych w reku ziarnka gorczycy oraz przerazajace widmo otoczone ptakami. Ogarnia cie zal. Myslisz o wszystkich planach, ktore odlozyles na pozniej, o osobach, z ktorymi sie nie pogodziles... Twoje rozmyslania nagle przerywa donosny glos. "Czy wierzysz w reinkarnacje?"
+@[Tak, oczywiscie!]$101
+@[Nie, to sa jakies hinduistyczne brednie.]$102@}
+
+{$101#"Doskonale! Nastepnym razem madrzej decyduj o swoich dzialaniach." Zaczyna ci sie krecic w glowie. Pojawiaja sie niejasne obrazy z twojego dziecinstwa oraz jakiejs blizej nieokreslonej imprezy.
+@[Co sie dzieje?]1@}
+
+{$102#"Na pewno?"
+@[Tak]$102
+@[Nie]$101@}
+
+{$6#Chwytasz najblizszy patyk. Przez chwilę zastanawiasz się co uwiecznić w małym skrawku błota.
+@[Narysuj gwiazdę Dawida]$16
+@[Zagraj ze sobą w kółko i krzyżyk]$17@}
+
+{$16#Chwytasz patyk i rysujesz gwiazdę Dawida. Ukontentowany, siadasz pod drzewem. Nagle gwiazda zaczyna lsnic. Zdziwiony niezwyklym zjawiskiem, wstajesz. Twoich uszu dobiega narastajacy dzwiek grajacych cymbalow. Gwiazda lsni tak mocno, ze musisz odwrocic wzrok. Gdy wszystko sie uspokoilo, patrzysz w strone zrodla tejemniczej melodii. Ku twojemu zdziwieniu dostrzegasz szeroko usmiechnietego Zyda, trzymajacego w rekach ogromne cymbaly. Jego dlugie pejsy siegaja ziemi. "Aj Waj! Aj Waj! Aj Waj! Szalom! Twoja zaplata za me przybycie zostala automatycznie pobrana (w tym 23% VAT). Jestem Jankiel. Czym moge sluzyc?" Przez chwile stoisz w oslupieniu i z niedowierzaniem spogladasz na ta niezwykla postac. "Ah, bylbym zapomnial. Podstawowy pakiet 1 pytania kosztuje 15 zl (plus dodatkowe oplaty uslugowe), rozszerzony z 3 pytaniami 39,99 zl (plus dodatkowe oplaty uslugowe), a pakiet premium, w sklad ktorego wchodzi przeniesienie w dowolne miejsce oraz jedno pytanie, 99,99 zl (w tej chwili pakiet jest przeceniony o 14%)." Po przeliczeniu twojego skromnego majatku okazuje sie, ze masz jedynie 10 zl.
+@[Targuj sie]$20
+@[Sprobuj go oszukac]$21 
+@[Odrzuc oferte]$22@}
+
+{$20#"Nie masz wystarczajaco pieniedzy? Aj Waj! Niech bedzie. Jako, ze to nasze pierwsze spotkanie, moge ci zaoferowac pakiet podstawowy w promocyjnej cenie... Hmm... 10 zl. Co ty na to?"
+@[Sproboj go oszukac]$21
+@[Przyjmij oferte promocyjna]$25
+@[Odrzuc oferte promocyjna]$22@}
+
+{$21#Probujesz przekonac Jankiela, abys najpierw skorzystal z wybranego pakietu, a dopiero pozniej zaplacil. "Ajajajaj! Nie z takiej gliny mnie Dobry Bóg ulepił! To mi pachnie oszustwem!" Z tymi slowami znow pojawila sie tajemnicza poswiata, a Zyd zaczal powoli znikac. Masz jeszcze szanse, aby sprobowac go chwycic.
+@[Sprobuj go chwycic]$26
+@[Odpusc sobie i sprobuj wydostac sie z lasu]$3@}
+
+{$26#W ostatniej chwili udaje ci sie zlapac Jankiela za rekaw. Teleportujesz sie razem z nim do dziwnego miejsca. Pojawiasz sie wraz z nim w ogromnym skarbcu. Otacza cie mnostwo zlota. Gdzieniegdzie kapia sie w nim ludzie. Jankiel, zdajac sobie sprawe z twojej obecnosci, glosno krzyczy "Aj Waj!" Kula amerykanskiego snajpera dosiega cie znienacka.
+@[Aj Waj!]$100@}
+
+{$25#Przyjmujesz oferte promocyjna Jankiela. Ten z zadowoleniem kiwa glowa na widok pieniedzy. Dokladnie obwachuje zablocony banknot i chowa go za pazuche. Teraz musisz sie dobrze zastanowic nad swoim pytaniem.
+@Kim jestem?$27
+@Skad sie tu wzialem?$28
+@Czy mozesz przywrocic mi pamiec?$29
+@Jak sie wydostac z tego lasu?$30@}
+
+{$28#"To calkiem proste. Ostatniej nocy narabales sie w sztok! Hahaha! Aj Waj! Zebys wiedzial co robiles! Probowales poderwac Telimene, a gdy ta cie odrzucila, siedziales przez pol godziny w stodole i plakales. I to dopiero o 21! Potem grales z Wojskim, Sedzia, Zosia i Tadeuszem w pokera. Najwidoczniej slabo ci szlo, skoro zostalo ci tak malo pieniedzy. Gdy do gry dosiadl sie Gerwazy, zrobilo sie niebezpiecznie. Ten stary klucznik postawil, z braku srodkow, zamek Hrabiego. Oczywiscie przegral i oskarzyl Tadeusza o oszukiwanie. Doszlo do rekoczynow, a pozniej walki na szable, w wyniku czego raniony zostal twoj brat, Franciszek. No ale ty byles zbyt pijany zeby sie nim zajac. Streszczajac reszte nocy, a raczej twoich czynow, chciales przeskoczyc ze stodoly na dach dworku Soplicy, podawales sie przez okolo 2 godziny za niejakiego Kordiana, skradajac sie przez srodek sali z widelcem w reku i szepczac do siebie jakies niezrozumiale slowa o strachu i imaginacji. Na koniec namowiles Tadeusza, zeby pojsc do lasu ujezdzac niedzwiedzia. Ot, cala historia. Tak sie tu "wziales". To wszystko, co moglem dla ciebie zrobic, jesli bedziesz mnie kiedys znow potrzebowal, wiesz, gdzie  mnie szukac. Do nastepnego razu! Aj waj!" Z tymi slowami znow pojawila sie tajemnicza poswiata, a Zyd zaczal powoli znikac. Masz jeszcze szanse, aby sprobowac go chwycic.
+@[Sprobuj go chwycic]$26
+@[Odpusc sobie i sprobuj wydostac sie z lasu]$3@}
+
+{$30#"Idz w tamta strone," powiedzial Jankiel wskazujac sciezke miedzy dwoma najblizszymi drzewami. "Po drodze spotkasz takiego nieprzytomnego zolnierza lezacego na ziemi. Postaraj sie go nie skrzywdzic. To wszystko, co moglem dla ciebie zrobic, jesli bedziesz mnie kiedys znow potrzebowal, wiesz, gdzie  mnie szukac. Do nastepnego razu! Aj waj!" Z tymi slowami znow pojawila sie tajemnicza poswiata, a Zyd zaczal powoli znikac. Masz jeszcze szanse, aby sprobowac go chwycic.
+@[Sprobuj go chwycic]$26
+@[Sprobuj wydostac sie z lasu wskazana przez Jankiela droga]$3@}
+
+
+{$29#"Owszem, moge." Z tymi slowami znow pojawila sie tajemnicza poswiata, a Zyd zaczal powoli znikac. Masz jeszcze szanse, aby sprobowac go chwycic.
+@[Sprobuj go chwycic]$26
+@[Odpusc sobie i sprobuj wydostac sie z lasu]$3@} 
+
+{$27#"Aj waj! Tego pytania obawialem sie najbardziej. Niestety, moi mocodawcy nie pozwalaja mi na nie odpowiedziec. Moge ci za to dac ksiazke, ktora nieco rozjasni twoje mysli." Z tymi slowami Jankiel wyciaga cienki, skorzany tomik poezji.
+@[Przyjmij ksiazke]$32
+@[Odrzuc propozycje]$22@}
+
+{$32#Otrzymujesz z rak Jankiela tajemniczy tomik. Otwierasz go na stornie tytulowej. Napisane na niej sa nastepujace slowa: "Sonety Adama Mickiewicza. Quand' era iu parte altr' uom da quel, ch'io sono. Petrarca. Moskwa, W drukarni Uniwersytetu, Nakladem Autora, 1826." Czytajac imie autora, cos w tobie sie budzi. Slowa "Stepow akermanskich" wydaja ci sie dziwnie znajome, tak, jakbys sam je napisal. Tymczasem Jankiel, kiwajac z zadowoleniem glowa, mowi: "To wszystko, co moglem dla ciebie zrobic, jesli bedziesz mnie kiedys znow potrzebowal, wiesz, gdzi  mnie szukac. Do nastepnego razu! Aj waj!" Z tymi slowami znow pojawila sie tajemnicza poswiata, a Zyd zaczal powoli znikac. Masz jeszcze szanse, aby sprobowac go chwycic.
+@[Sprobuj go chwycic]$26
+@[Oddaj sie czytaniu tajemniczego tomiku]$35
+@[Wyrzuc ksiazke w krzaki i sprobuj wydostac sie z lasu]$3@}
+
+{$35#Po zniknieciu Jankiela siadasz pod drzewem i oddajesz sie czytaniu ksiazki. Jej tresc wydaje ci sie dziwnie znajoma. W pelni identyfikujesz sie z autorem. Czytajac opisy krymskich krajobrazow czujesz sie, jakbys naprawde tam byl. Zamykasz oczy. Czujesz lekka morska bryze i zapach bogatego w jod powietrza. Otwierasz oczy. Ku swojemu niedowierzaniu znajdujesz sie teraz nieopodal Sewastopola, spogladajac w strone morza. Wszystko powoli sobie przypominasz. Wiesz juz, ze to wszystko bylo tylko snem, marzeniem sennym zaledwie. Nazywasz sie Adam Mickiewicz, a to historia, ktora nigdy nie zostanie spisana...  }
+
+{$22#"Niech bedzie. Twoj wybor. Oplata anulacyjna zostala automatycznie pobrana. Do widzenia, aj waj!" Z tymi slowami znow pojawila sie tajemnicza poswiata, a Zyd zaczal powoli znikac. Masz jeszcze szanse, aby sprobowac go chwycic.
+@[Sprobuj go chwycic]$26
+@[Odpusc sobie i sprobuj wydostac sie z lasu]$3@}
+
+{$17#Rysujesz dwie poziome kreski i trzy pionowe. Po chwili zastanowienia wymazujesz ostatnią pionową. Plansza jest gotowa do gry. Z A G R A J   W   O   I   X}
+
+{$13#W zyciu tak szybko nie uciekales. Na szczescie niedzwiedz byl zaspany i nie chcial za toba gonic. Udaje ci sie go zgubic.
+@[Uff...]$3@}
+
+{$3#Przedzierasz sie dzielnie przez krzaki i bloto, jednak konca lasu nie widac. 
+Wtem potykasz sie o cos duzego i przewracasz. Odwracasz sie i widzisz czlowieka 
+w mundurze wojskowym. Jednak przez brud i twoja oslabiona percepcje nie jestes 
+w stanie rozpoznac barw. Zdaje sie, ze mocno spi lub jest nieprzytomny: 
+@[Trac go lekko noga, zeby sprawdzic czy zyje]$7
+@[Kopnij go z calej sily w brzuch, niepotrzebnie wchodzil ci w droge]$8
+@[HALO PROSZE PANA CZY WSZYSTKO W PORZADKU? SLYSZY MNIE PAN?]$7@}
+
+{$7#Brak reakcji:
+@[Zostawiasz go i idziesz dalej]$9
+@[Zatykasz mu nos i usta reka, jak zyje to zacznie sie dusic i sie obudzi]$10
+@[Kopiesz go z calej sily]$8@}
+
+{$8#Zolnierz wypluwa troche krwi i opada bezwladnie:
+@[W sumie niewiele cie to obchodzi, wiec idziesz dalej]$9@}
+
+{$9#Nie wierzysz oczom, gdyz nad brzegiem ruczaju,
+Na pagorku niewielkim, we brzozowym gaju,
+Stal dwor szlachecki, z drzewa, lecz podmurowany;
+Swiecily sie z daleka pobielane sciany, 
+Tym bielsze, ze odbite od ciemnej zieleni
+Topoli, co go bronia od wiatrow jesieni.
+Dom mieszkalny niewielki, lecz zewszad chedogi,
+I stodole mial wielka, i przy niej trzy stogi
+Uzatku, co pod strzecha zmiescic sie nie moze.
+Obraz wydaje ci sie zbyt sielankowy, zeby mogl byc prawdziwy. Zwlaszcza, ze jego najprostszy opis uklada sie w rymy trzynastozgloskowcem. Obawiasz sie o swoje zdrowie psychiczne:
+@[Miej serce i patrzaj w serce, rozum to nie twoj pan, idz dalej]$36@
+@[Uciekaj z powrotem do lasu]$3@}
+
+{$36#Idziesz w strone dworku. Zblizajac sie, ogarnia cie strach. Martwi ludzie leza naokolo, jedni jecza, inni powoli sie gramola. Cos ci w tym obrazie nie pasuje. Wszedzie leza porozrzucane kieliszki, butelki, a pod sciana stodoly stoi przewrocony maly woz z sianem. Nie widac nigdzie sladow walki, nikt nie jest ranny, nie ma porzuconej broni. Wchodzisz miedzy progi dworku. W srodku panuje jeszcze wiekszy balagan. Lawy sa porozrzucane w bezladzie, pod sciana leza dwie pary, przykryte duzym szlacheckim plaszczem. Jeden z mezczyzn wlasnie wyciagal reke po swoj pas, ale, macajac nieprzytomnie reka po podlodze, zdolal dosiegnac jedynie do wielkiego, wspanialego kutasa. Drugi skarcil polglosem towarzysza, bowiem pas nalezal do niego. Nie dziw, ze sie upomina. Tak pieknego kutasa niejeden szlachcic pozazdrosci.
+@[Przejdz sie po sali]$39
+@[Przysluchaj sie rozmowie mezczyzn]$40@}
+
+{$40#Podchodzisz do przykrytych plaszczem par. Nadstawiasz ucha, aby prysluchac sie konwersacji mezczyzn. "O kurcze, przepraszam!" "Przepraszasz? Za co? Nasi ojcowie uczyli nas, by nie wstydzic sie naszych kutasow. Szczegolnie, jesli sa tak wspaniale i w ogole." "Ano, twoj ojciec dal ci dobra rade." Z niedowierzaniem odwracasz do nich glowe. Dwaj towarzysze probuja po cichu zalozyc swoje szlacheckie stroje, tak, by ich kochanki nie zauwazyly ich znikniecia. Jeden z nich nie daje sobie rady z pasem. Wszystko staje sie nagle jasne. "Rozciaga sie gdy za niego ciagniesz." "Mhmmm..." "Czasem ciagne za niego tak mocno, że skóra się zrywa." "Coz, moj ojciec tez dal mi kilka rad. Jedna z nich bylo, jak nie zerwac skory. Wystarczy uzyc czyichs ust, zamiast wlasnej reki." "Chyba nie mowimy o tym samym..." "Na pewno nie chcesz, zabym ci pokazal?" "Idz precz! A fuj!"
+@[Przejdz sie po sali]$39@}
+
+{$39#Powoli przechadzasz sie po sali. Naokolo panuje ogromny balagan. Wyglada gorzej, niz po batalii z Moskalami. Wspolczujesz gospodarzowi. Nikt z tu obecnych nie pomoze ci rozwiklac zagadki dzisiejszego dnia. Kierujesz sie wiec ku...
+@[Ogrodowi, tam przynajmniej zaznasz troche natury i odswiezysz swoja pamiec]$43
+@[Drzwiom prowadzacym do sypialn, moze zastaniesz tam gospodarza?]$44
+@[Wyjsciu i drzewom, nie chcesz miec nic wspolnego z ta Stajnia Augiasza]$3@}
+
+{$43#...drzwiom ogrodowym. Wychodzisz na taras. Ogrod jest skapany w sloncu. Panuje tutaj, ku twojemu zaskoczeniu, nienaganny porzadek. Nie widac tez zywej duszy. W krzakach po lewej cos szelesci.
+@[Wejdz miedzy krzaki]$45
+@[Wroc do glownej sali]$39@}
+
+{$45#Wchodzisz miedzy krzaki, w miejscu, gdzie cos szelesci. Osoba, ktora jest zrodlem halasu akurat skryla sie za drzewo, jednak zdolales zauwazyc rabek bialego, skorzanego plaszcza. Wydaje ci sie, ze jest do dosyc osobliwy ubior jak na te okolice. Skradasz sie ku pniu drzewa, gotow wyskoczyc z zaskoczenia na chowajaca sie postac. Wyciagasz glowe, aby przyjrzec sie tajemniczej osobie. Z zaskoczeniem stwierdzasz, iz jest to bialy zajac, ubrany w stroj sluzacego z parasolka pod pacha. Nagle odwraca glowe ku tobie. Przestraszony, wskakuje do nory. Otwor jest wystarczajaco duzy, abys mogl w niego wejsc.
+@[Sprobuj wejsc do nory]$46
+@[Biale kroliki z parasolkami nie istnieja, wroc sie do dworku]$39@}
+
+{$46#Probujesz sie wcisnac do nory, w ktorej zniknal osobliwy zajac, jednak okazuje sie, ze jest stanowczo za mala. Utknales z glowa w ziemi. Wygladasz jak idiota. Jestes bezbronny. Lis, zamieszkujacy te nore, atakuje twoja twarz w obronie swoich mlodych. Nastepnym razem bedziesz wiedzial, ze biale kroliki z parasolkami nie istnieja.
+@[Biale kroliki z parasolkami nie istnieja]$100@}
+
+{$44#Idziesz ku sypialniom. Wszystkie drzwi, oprocz ostatnich z lewej, sa pozamykane.
+@[Skieruj sie ku otwartym drzwiom]$49
+@[Sproboj otworzyc pierwsze drzwi]$50
+@[Sprobuj otworzyc drugie drzwi]$51
+@[Sprobuj otworzyc trzecie drzwi]$52@}
+
+{$50#Okazuje sie, ze pierwsze drzwi nie sa zamkniete na klucz. Otwierasz je, a twoim oczom ukazuja sie trzy kobiety. Dwie rozmawiaja ze soba, a trzecia jest ewidentnie sluzaca. "Zosiu, uwazam, ze jestes juz gotowa, wyjsc na salony i pokazac sie wszyst- Kim ty, do diabla jestes?" Zawstydzony, pytasz o gospodarza. "Coz, tutaj go nie ma. Znajdziesz go w ostatnim pokoju po lewej. Nastepnym razem zapukaj. W Petersburgu, jak sasiad mi wszedl bez pukania do pokoju, to car-" Nie uslyszales wywodu tej kobiety do konca. Wydawala ci sie stanowczo zbyt gadatliwa.
+@[Skieruj sie ku otwartym drzwiom]$49
+@[Sprobuj otworzyc drugie drzwi]$51
+@[Sprobuj otworzyc trzecie drzwi]$52@}
+
+{$51#Probujesz otworzyc drugie drzwi, jednak sa zamkniete. Patrzysz wiec przez dziurke od klucza. Widzisz, jak jakis mnich rozmawia z nieznanym tobie szlachcicem. Nie udaje ci sie jednak obejrzec sceny do konca, gdyz popycha cie nikt inny, jak sam Pan Tadeusz. "Pozwoli Pan," mowi, odsuwajac cie od dziurki i sam przystawia do niej oko.
+@[Skieruj sie ku otwartym drzwiom]$49
+@[Sprobuj otworzyc trzecie drzwi]$52@}
+
+{$52#Trzecie drzwi sa niestety zamkniete, jednak zza nich dobiega cie slaby glos. "Wyjdz, wyjdz, gdziekolwiek jestes!" Ktos probuje otworzyc drzwi od drugiej strony, jednak to sie nie udaje. Rozlega sie slabe pukanie. Osoba po drugiej stronie drzwi zaczyna recytowac niezrozumialy wierszyk o swiniach. Podchodzisz do sciany. Ku twojemu zaskoczeniu przez drzwi przebija sie siekiera.
+@[Zostan i pomoz osobie wyjsc z pokoju]$55
+@[Uciekaj]$56@}
+
+{$55#W drzwiach powstaje calkiem spora dziura. Wysuwa sie z niej twarz mezczyzny, ktory szepcze przerazajaco "Jonny przyszedl!". Dokanczajacjac dziela zniszczenia, nisczy doszczetnie drzwi, a nastepnie rani cie smiertelnie siekera. Udaje ci sie jeszcze uslyszec, jak mowi: "To ja, Jack Torrence!" Przeskakuje nad toba i idzie do sali.
+@[Biada biesiadnikom]$100@}
+
+{$56#Uciekasz, ile sil w nogach. Kierujesz sie natychmiast w strone otwartych drzwi.
+@[Skieruj sie ku otwartym drzwiom]$49@}
+
+{$49#Wchodzisz w ostatnie drzwi. W srodku znajduja sie trzy osoby. "Adam, nareszcie dotarles! Martwilismy sie o ciebie. Gdybys wiedzial, co wczoraj robiles..."
+@Adam?$57@}
+
+{$57#"Musi byc naprawde zle z toba. Nie dziwie sie, duzo wczoraj wypiles. Jestes Adam Mickiewicz, nie pamietasz?" Adam Mickiewicz. Wszystko powoli do ciebie wraca. Te dwie osoby to twoi bracia, Franciszek oraz Aleksander. Pomiedzy nimi stoi nikt inny, jak Aleksander Puszkin, z ktorym utrzymujesz kontakt od jakiegos czasu, a ktory zaprosil cie na te impreze. Nazywasz sie Adam Mickiewicz, a to jest historia, ktora nigdy nie zostanie zapisana.}
+
+{$10#Siegasz reka do twarzy nieznajomego. Gdy zblizasz ja do ust mezczyzny,
+widzisz jak nagle otwiera oczy i rzuca sie na twoja dlon, ujadajac 
+i wbijajac w nia zeby. Krzyczac z bolu zaczynasz sie szarpac z zolnierzem,
+jednak nadal nie najlepiej komunikujesz sie ze swoim cialem, wiec zaczynasz tarzac sie 
+w blocie. W koncu udaje ci sie zalozyc mu dzwignie i zaczynasz go dusic noga.
+Mezczyzna zaszczekal i wydusil "pardon, pardon":
+@[Bezlitosnie dusisz do konca, to moze byc podstep]$8
+@[Odpuszczasz i odsuwasz sie szybko]$11@}
+
+{$11#Mezczyzna krztusi sie i wydaje z siebie dziwne dzwieki, przypominajace wczesniejsze, jednak wydawane ciszej i bez rzadzy mordu w oczach bardziej przypominaja ludzka mowe. Nie mowi jednak po Polsku. Zaczyna gestykulowac pokazujac to na swoja czapke, to w blizej nieokreslonym kierunku:
+@MOW DO MNIE PO POLSKU, DABROWSKI, KOSCIUSZKO, POL-SKA$14
+@[Kierujesz sie w strone wskazywana przez mezczyzne]$15@}
+
+{$14#Mezczyzna podrywa sie z ziemi, staje na bacznosc i zaczyna glosno nucic znana ci piosenke. Wtem uderzylo cie- to byl znany w calej okolicy mlody szlachcic Tadeusz Soplica!:
+@Sluchaj mnie bo... [Sprzedajesz Tadeuszowi blache w potylice]$18
+@Co sie stalo Tadeuszku co robisz tu sam w takim stanie?$19@}
+
+{$18#Tadeusz ewidentnie rozsierdzony probuje cie zaatakowac, jednak jego zlamany kikut nie nadaje sie do walki. Unikasz kilku jego niezdarnych ciosow, gdy nagle slyszysz z krzakow okrzyk, a Tadeuszek lapie w locie rusznice i wypala z niej w twoim kierunku. Zanim upadles katem oka spostrzegasz lysa pale ducha Jacka Soplicy kucajacego w krzakach z worem pelnym broni w jednej rece i kwaterka wodki w drugiej. "W imie zasad...":
+@[Wykonujesz znak krzyza w jego kierunku, w koncu sam byles sobie winien przerywajac Mazurka]$100@}
+
+{$19#Chlopak przerywa, roztrzesiony lapie cie za reke i prowadzi w glab lasu. W pewnym momencie zatrzymuje cie, sciaga czapke i rzuca ja przed siebie. Czapka znika w krzakach. Slyszysz jak z lasu odzywa sie glosno trel jakiegos ptaka. Odpowiada mu seria skrzekniec. Tadeuszek odpowiedzial im wydajac z siebie szalencze malpie odglosy i wyrzucajac w wysoko w gore lezacy na ziemi patyk. Cos wokol was zaszelescilo i z okolicznych zarosli wyskoczyla banda dzikusow uzbrojonych w rurki, luki i oszczepy. Ubrani byli w liscie i fragmenty bielizny, zapewne ukradzione z okolicznych wiosek. Tadeusz uniosl rece wysoko do gory i zaczal glosno deklamowac cos w jakims dziwnym dialekcie:
+@HALO POLSKA, PO P O L S K U, TADEUSZ PRZESTAN, UGABUGA NIENAWIDZE WAS WSZYSTKICH$24
+@Dosyc tej szopki [odwracasz sie na piecie i idziesz w las]$23
+@[Sluchasz dalej]$24@}
+
+{$24#Tadeusz milknie i patrzy w twoja strone. Wszyscy dzicy zdaja sie byc pelni podziwu. Jeden z nich wychodzi klania sie usluznie, chwyta cie delikatnie 
+pod reke, intonuje zywa melodie i prowadzi cie w matecznik. Reszta dzikich i Tadeuszek ustawieni parami w kolumnie, nucac ruszaja za wami. Zdezorientowany
+nie wiesz co masz robic, wiec po prostu poddajesz sie woli ludzi lasu. Powoli zaczelo sie sciemniac, a wasz orszak niestrudzenie parl do przodu, wciaz nucac 
+te sama uciazliwa melodie. W pewnym momencie monotonny krajobraz lesnej gestwiny ustepuje, a przed toba otwiera sie rozlegla polana. Zabudowana jest gesto pietrowymi chatkami z blota i slomy, jej granice wyznaczaja domki na drzewach. Prowadza cie na sam srodek, gdzie przed najwieksza z chat rozpalone bylo spore ognisko. Twoj dzikus zacharczal cos glosno i korowod natychmiast zamilkl i rozproszyl sie po wiosce. Przy ognisku zostales tylko ty, Tadeuszek Soplica, dziki przewodnik i kilka tajemniczych postaci, ktore siedzialy tam konwersujac odkad przybyliscie na miejsce. Wszyscy zdawali sie patrzec na postac z przeciwnej strony ogniska, ty jednak nie mogles jej rozpoznac przez opary dymu. Obszedles ostroznie ognisko. Twoim oczom ukazal sie krecacy wasa i snujacy gawedy w twoim ojczystym jezyku, wyjatkowo niepasujacy tu swoim szlacheckim ubiorem mezczyzna. Sluchales go uwaznie jednak jego opowiesc byla nieprzenikniona i chaotyczna jak wzburzone morze i nie byles w stanie rozroznic slow. W pewnym momencie szlachcic wyskoczyl wysoko w powietrze i wyrzucajac gwaltownie szyje do przodu zlowil przelatujaca muche jezykiem, po czym opadl lekko i z gracja, ukladajac sie z powrotem na swoim tronie i kontynuowal historie pykajac fajke. 
+Nie wiesz jak dlugo tam siedziales wsluchujac sie w jego bajdurzenie, gdy nagle szlachcic przerwal, lecz fajke trzymal i wciaz ci sie zdawalo, ze opowiada on jeszcze, a to pytanie padalo:
+@Przepraszam, nie zrozumialem, moglby pan powtorzyc?$33
+@No pewnie, czemu nie$33
+@Chyba sie juz zasiedzialem [odwroc sie i opusc polane]$34@}
+
+{$34#Kiedy odwrociles sie od szlachcica okoliczni dzicy zaczeli wydawac z siebie malpie dzwieki. Slyszysz swist i czujesz uklucie w plecach.
+@[Upadasz]$100@}
+
+{$33#Szlachcic nie przejal sie twoimi slowami i kontynuowal. "...Ale widze, ze wacpan rownie dobrze sie bawil, pomimo swojego marnego szczescia w kartach 
+i pewnikiem pogruchotanych kosci." To powiedziawszy mezczyzna wstal i wyciagnal zza pazuchy skorzana packe, po czym strzelil nia kilkukrotnie jak batem. Packa zaczela jasniec niebianskim swiatlem. Nie miales watpliwosci- stal przed toba nie kto inny, a sam bog biesiady, Wojski Hreczecha. Niegodzien ogladac jego chwaly padasz na twarz. Czujesz jak cos cieplego dotyka twojej glowy, a potem zapadasz w sen. Budzisz sie. Bol glowy ustapil. Wiesz juz dokladnie gdzie byles i z  miod i wino piles. Nazywasz sie Adam Mickiewicz, a to historia, ktora nigdy nie zostanie spisana...} 
+
+{$3#Przemierzasz las dziarskim krokiem. Idziesz, idziesz i idziesz, ale twoj stan ducha dodaje ci werwy. Po drodze podziwiasz piekno lasu budzacego sie do zycia po deszczu. Fascynuje cie otaczajaca cie przyroda. W pewnym momencie wychodzisz na polane. Na niewielkim wzniesieniu widzisz drewniany slup. Podchodzisz i dostrzegasz rzezbione, slowianskie rysy jego twarzy na wszystkich czterech stronach swiata:
+@Super posag [dotykasz posagu]$37
+@Super posag [odchodzisz, nie dotykajac posagu]$38@}
+
+{$37#Nic sie nie dzieje:
+@Naprawde fajny posag [odchodzisz z polany]$38@}
+
+{$38#Idziesz spokojnym krokiem przez las. Slyszysz jak powoli rozpoczyna sie wieczorny koncert natury. Zabki kumkaja, pasikoniki graja, komary dzwiecza w uszach. Zmeczenie zaczyna dawac o sobie znac. Co prawda minal caly dzien, ale kac wciaz trzyma, a twoj dziarski nastroj prysnal i przypominasz sobie, ze wlasnie caly dzien szedles bez celu przez las. Na granicy wzroku dostrzegasz swiatla. Zdajesz sobie sprawe, ze to twoj mozg moze platac ci figle:
+@Jestem pijany [idziesz dalej w swoja strone]$41
+@[Odwracasz sie i idziesz w kierunku swiatel]$42@}
+
+{$41#Zmrok zapadl. Jestes zmeczony, zaczynasz robic sie glodny. Znowu blyskaja swiatla. Jestes zdesperowany, a to moze byc cywilizacja:
+@[Idziesz w strone swiatla]$42@}
+
+{$42#Przedzierasz sie przez krzaki, ledwo widzac cokolwiek. Brniesz caly czas w tym samym kierunku. W pewnym momencie krzaki koncza sie, a ty wychodzisz na skraj polany. Nagle na niebie pojawiaja sie swiatla. Zaczynaja migotac i tanczyc ze soba dziwny taniec. Wpatrujesz sie w niego jak zahipnotyzowany. Swiatla odslaniaja pojedynczy slup na szczycie niewielkiego wzgorza. Widzisz jak do slupa zbliza sie postac, ciagnaca za soba jakis ciezki tobol:
+@[Uciekasz z polany ile sil w nogach]$47
+@[Podchodzisz blizej, aby lepiej przyjrzec sie przybyszowi]$48@}
+
+{$48#Z bliska dokladnie przygladasz sie postaci. Wysoka, wysmukla sylwetka, stojac opiera sie na poteznym mieczu. Nie masz watpliwosci- przed toba stoi Gerwazy.
+Na wzgorze obok klucznika spada snop czerwonego swiatla. Tobol, dotad oparty lekko o nogi Rebajly zaczyna sie szamotac, z wewnatrz dobiega cie krzyk. W snopie swiatla pojawia sie sylwetka. "Diabel!" Gerwazy wymienia z nim blizej nieokreslone gesty palcami, slyszysz w ich mowie wyrazny wloski akcent. Klucznik wklada szamaczacy wor w snop swiatla, wymienia te sama serie gestow z przybyszem po czym swiatlo znika razem z diablem i workiem:
+@[Podchodzisz do Gerwazego i glosno domagasz sie wyjasnien]$53
+@[Czekasz i obserwujesz dalej]$54@}
+
+{$53#Zaczynasz pokrzykiwac w strone starego klucznika i podbiegasz w jego strone. Gerwazy   }
+
+{$47#Za soba slyszysz dziwne dzwieki. Biegniesz co tchu, byle dalej od dziwnych swiatel i tajemniczych postaci. Potykasz sie. Upadasz na twarz, pech chcial, ze akurat na ziemi znalazl sie ulamany kawalek drewna wystawiony na sztorc. Nadziany na galaz, powoli tracisz przytomnosc.XXXXXXXXXXXXXXXXXXXXXXX}

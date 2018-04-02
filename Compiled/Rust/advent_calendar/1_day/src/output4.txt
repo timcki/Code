@@ -1,0 +1,262 @@
+After assert: Location { x: 1, y: 0 }
+
+
+After assert: Location { x: 1, y: 4 }
+
+
+After assert: Location { x: -4, y: 4 }
+
+
+After assert: Location { x: -4, y: -1 }
+
+
+After assert: Location { x: -6, y: -1 }
+
+
+After assert: Location { x: -6, y: 1 }
+
+
+After assert: Location { x: -7, y: 1 }
+
+
+After assert: Location { x: -7, y: 0 }
+
+
+After assert: Location { x: -9, y: 0 }
+
+
+After assert: Location { x: -9, y: -3 }
+
+
+After assert: Location { x: -13, y: -3 }
+
+
+After assert: Location { x: -13, y: 0 }
+
+
+After assert: Location { x: -11, y: 0 }
+
+
+After assert: Location { x: -11, y: 4 }
+
+
+After assert: Location { x: -13, y: 4 }
+
+
+After assert: Location { x: -13, y: 9 }
+
+
+After assert: Location { x: -14, y: 9 }
+
+
+After assert: Location { x: -14, y: 14 }
+
+
+After assert: Location { x: -19, y: 14 }
+
+
+After assert: Location { x: -19, y: 12 }
+
+
+After assert: Location { x: -16, y: 12 }
+
+
+After assert: Location { x: -16, y: 13 }
+
+
+After assert: Location { x: -15, y: 13 }
+
+
+After assert: Location { x: -15, y: 9 }
+
+
+After assert: Location { x: -20, y: 9 }
+
+
+After assert: Location { x: -20, y: 6 }
+
+
+After assert: Location { x: -22, y: 6 }
+
+
+After assert: Location { x: -22, y: 2 }
+
+
+After assert: Location { x: -17, y: 2 }
+
+
+After assert: Location { x: -17, y: 1 }
+
+
+After assert: Location { x: -19, y: 1 }
+
+
+After assert: Location { x: -19, y: -2 }
+
+
+After assert: Location { x: -22, y: -2 }
+
+
+After assert: Location { x: -22, y: -5 }
+
+
+After assert: Location { x: -21, y: -5 }
+
+
+After assert: Location { x: -21, y: -3 }
+
+
+After assert: Location { x: -16, y: -3 }
+
+
+After assert: Location { x: -16, y: -7 }
+
+
+After assert: Location { x: -21, y: -7 }
+
+
+After assert: Location { x: -21, y: -12 }
+
+
+After assert: Location { x: -22, y: -12 }
+
+
+After assert: Location { x: -22, y: -202 }
+
+
+After assert: Location { x: -19, y: -202 }
+
+
+After assert: Location { x: -19, y: -199 }
+
+
+After assert: Location { x: -16, y: -199 }
+
+
+After assert: Location { x: -16, y: -203 }
+
+
+After assert: Location { x: -63, y: -203 }
+
+
+After assert: Location { x: -63, y: -206 }
+
+
+After assert: Location { x: -68, y: -206 }
+
+
+After assert: Location { x: -68, y: -127 }
+
+
+After assert: Location { x: -63, y: -127 }
+
+
+After assert: Location { x: -63, y: -130 }
+
+
+After assert: Location { x: -64, y: -130 }
+
+
+After assert: Location { x: -64, y: -134 }
+
+
+After assert: Location { x: -61, y: -134 }
+
+
+After assert: Location { x: -61, y: -132 }
+
+
+After assert: Location { x: 133, y: -132 }
+
+
+After assert: Location { x: 133, y: -130 }
+
+
+After assert: Location { x: 134, y: -130 }
+
+
+After assert: Location { x: 134, y: -128 }
+
+
+After assert: Location { x: 132, y: -128 }
+
+
+After assert: Location { x: 132, y: -124 }
+
+
+After assert: Location { x: 127, y: -124 }
+
+
+After assert: Location { x: 127, y: -129 }
+
+
+After assert: Location { x: 126, y: -129 }
+
+
+After assert: Location { x: 126, y: -128 }
+
+
+After assert: Location { x: 125, y: -128 }
+
+
+After assert: Location { x: 125, y: -131 }
+
+
+After assert: Location { x: 127, y: -131 }
+
+
+After assert: Location { x: 127, y: -136 }
+
+
+After assert: Location { x: 130, y: -136 }
+
+
+After assert: Location { x: 130, y: -133 }
+
+
+After assert: Location { x: 134, y: -133 }
+
+
+After assert: Location { x: 134, y: -134 }
+
+
+After assert: Location { x: 129, y: -134 }
+
+
+After assert: Location { x: 129, y: -138 }
+
+
+After assert: Location { x: 126, y: -138 }
+
+
+After assert: Location { x: 126, y: -137 }
+
+
+After assert: Location { x: 125, y: -137 }
+
+
+After assert: Location { x: 125, y: -139 }
+
+
+After assert: Location { x: 121, y: -139 }
+
+
+After assert: Location { x: 121, y: -138 }
+
+
+After assert: Location { x: 119, y: -138 }
+
+
+After assert: Location { x: 119, y: -134 }
+
+
+After assert: Location { x: 123, y: -134 }
+
+
+After assert: Location { x: 123, y: -129 }
+
+
+After assert: Location { x: 126, y: -129 }
+
+
+Horizontal: 126	Vertical: -129

@@ -1,0 +1,8 @@
+[package]
+name = "4_day"
+version = "0.1.0"
+authors = ["Tymoteusz Chmielecki <typho0s@icloud.com>"]
+
+[dependencies]
+arrayvec = "*"
+alloc_system = "*"

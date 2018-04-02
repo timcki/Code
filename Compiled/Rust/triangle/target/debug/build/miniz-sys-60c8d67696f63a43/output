@@ -1,0 +1,36 @@
+TARGET = Some("x86_64-apple-darwin")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-apple-darwin")
+debug=true opt-level=0
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-fPIC" "-o" "/Users/tymek/Dropbox/Programming/Rust/triangle/target/debug/build/miniz-sys-60c8d67696f63a43/out/miniz.o" "-c" "miniz.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+AR_x86_64-apple-darwin = None
+AR_x86_64_apple_darwin = None
+HOST_AR = None
+AR = None
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+running: "ar" "crs" "/Users/tymek/Dropbox/Programming/Rust/triangle/target/debug/build/miniz-sys-60c8d67696f63a43/out/libminiz.a" "/Users/tymek/Dropbox/Programming/Rust/triangle/target/debug/build/miniz-sys-60c8d67696f63a43/out/miniz.o"
+ExitStatus(ExitStatus(0))
+cargo:rustc-link-lib=static=miniz
+cargo:rustc-link-search=native=/Users/tymek/Dropbox/Programming/Rust/triangle/target/debug/build/miniz-sys-60c8d67696f63a43/out
+cargo:root=/Users/tymek/Dropbox/Programming/Rust/triangle/target/debug/build/miniz-sys-60c8d67696f63a43/out

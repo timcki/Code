@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf8">
+        <title> 환영받은 이방인</title>
+        <!--<meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, minimum-scale=1.0, user-scalable=no"> -->
+        <script type="text/javascript">
+                function getTime(){
+                        var t=new Date(),nhour=t.getHours(),nmin=t.getMinutes();
+                        if(nmin<=9) nmin="0"+nmin;
+                        document.getElementById('clock').innerHTML=""+nhour+":"+nmin+"";
+                }
+                window.onload=function(){
+                        getTime();
+                        setInterval(getTime,1000);
+                }
+        </script>
+        <style>
+                body {
+                        width: 100%;
+                        min-height: 100vh;
+                        background-color: #1d1f21;
+                        background-repeat: no-repeat;
+                        background-size: cover;
+                        background-position: center;
+                        font-family: 'Hack', sans-serif;
+                        margin: 0;
+                        padding: 0;
+                }
+                .container {
+                        height: 100%;
+                        width: 100%;
+                        display: flex;
+                        position: fixed;
+                        align-items: center;
+                        justify-content: center;
+                        color: #b48ead;
+                        font-size: larger;
+                }
+                #box {
+                        padding: 10px;
+                        position: absolute;
+                        font-family: 'Hack';
+                        margin: auto;
+                        top: 0;
+                        bottom: 60px;
+                        left: 0;
+                        right: 0;
+                        height: 15%;
+                        width: 30%;
+                        background-color: #b294bb;
+                        color: #1d1f21;
+                }
+                #clock {
+                        position: fixed;
+                        font-family: 'Hack', sans-serif;
+                        bottom: 10px;
+                        right: 10px;
+                        font-size: 1em;
+                        color: #c5c8c6;
+                }
+                table {
+                        width: 100%;
+                        text-align: center;
+                        height: 100%;
+                        table-layout: fixed;
+                }
+                a {
+                color: #1d1f21;
+                text-decoration: none;
+                }
+        </style>
+</head>
+<body>
+        <!-- <div class="container"> <h1> 환영받은 이방인</h1> </div> -->
+        <div id="box">
+        	<table>
+        	<tr>
+		        <td> <a href="https://www.youtube.com/user/wybuchajacebeczki"> Gonciarz </a> </td>
+		        <td> <a href="https://www.4chan.org/g/"> /g/ </a> </td>
+	        	<td> <a href="https://www.youtube.com"> lofi </a>  </td>
+        	</tr>
+        	<tr>
+	        	<td> <a href="https://www.lainchan.org/%CE%BB/index.html"> /lambda/ </a>  </td>
+	        	<td> <a href="https://www.lainchan.org/%CE%A9/index.html"> /tech/ </a>  </td>
+	        	<td> <a href="https://www.lainchan.org/sec/index.html"> /sec/ </a>  </td>
+        	</tr>
+	        </table>
+        </div>
+        <div id="clock"></div>
+</body>
+</html>

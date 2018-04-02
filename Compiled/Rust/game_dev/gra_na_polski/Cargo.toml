@@ -1,0 +1,8 @@
+[package]
+name = "gra_na_polski"
+version = "0.1.0"
+authors = ["ft3"]
+
+[dependencies]
+ansi_term = "0.9"
+pancurses = "*"

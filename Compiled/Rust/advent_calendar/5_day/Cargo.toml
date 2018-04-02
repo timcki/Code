@@ -1,0 +1,8 @@
+[package]
+name = "5_day"
+version = "0.1.0"
+authors = ["Tymoteusz Chmielecki <typho0s@icloud.com>"]
+
+[dependencies]
+rust-crypto = "0.2"
+num_cpus = "1.2"

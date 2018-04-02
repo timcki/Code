@@ -1,0 +1,6 @@
+[package]
+name = "idea_project"
+version = "0.1.0"
+authors = ["Tymoteusz Chmielecki <typho0s@icloud.com>"]
+
+[dependencies]

@@ -1,0 +1,8 @@
+#ifndef R_VERSION_H
+#define R_VERSION_H 1
+#define R2_VERSION_COMMIT 16820
+#define R2_VERSION "2.3.0-git"
+#define R2_GITTAP "2.2.0-11-gf36f165"
+#define R2_GITTIP "f36f1653122584824670b51d10e354e64f5238e1"
+#define R2_BIRTH "2017-12-28__12:12:25"
+#endif

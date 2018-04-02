@@ -1,0 +1,62 @@
+[package]
+name = "advent_of_code_2016"
+version = "0.1.0"
+authors = ["Michael Aaron Murphy <mmstickman@gmail.com>"]
+
+[[bin]]
+name = "day_01"
+path = "src/01/main.rs"
+
+[[bin]]
+name = "day_02"
+path = "src/02/main.rs"
+
+[[bin]]
+name = "day_03"
+path = "src/03/main.rs"
+
+[[bin]]
+name = "day_04"
+path = "src/04/main.rs"
+
+[[bin]]
+name = "day_05"
+path = "src/05/main.rs"
+
+[[bin]]
+name = "day_06"
+path = "src/06/main.rs"
+
+[[bin]]
+name = "day_07"
+path = "src/07/main.rs"
+
+[[bin]]
+name = "day_08"
+path = "src/08/main.rs"
+
+[[bin]]
+name = "day_09"
+path = "src/09/main.rs"
+
+[[bin]]
+name = "nostd_09"
+path = "src/09/no_std.rs"
+
+[[bin]]
+name = "day_10"
+path = "src/10/main.rs"
+
+[[bin]]
+name = "day_12"
+path = "src/12/main.rs"
+
+[profile.release]
+lto = true
+opt-level = 3
+
+[dependencies]
+arrayvec = "0.3"
+rust-crypto = "0.2"
+num_cpus = "1.2"
+time = "0.1"

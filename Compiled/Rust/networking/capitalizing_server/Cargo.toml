@@ -1,0 +1,6 @@
+[package]
+name = "capitalizing_server"
+version = "0.1.0"
+authors = ["ft3"]
+
+[dependencies]

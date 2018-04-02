@@ -1,0 +1,10 @@
+[package]
+name = "pomodoro_timer"
+version = "0.1.0"
+authors = ["ft3"]
+
+[dependencies]
+csv = "1.0.0-beta.4"
+serde = "*"
+serde_derive = "*"
+time = "0.1.0"

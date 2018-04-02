@@ -1,0 +1,5 @@
+enum MachineState {
+	Nomral,
+	Uppercase,
+	Lowerc
+}

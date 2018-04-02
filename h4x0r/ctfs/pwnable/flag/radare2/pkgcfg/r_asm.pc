@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=/usr/lib
+includedir=${prefix}/include
+
+Name: r_asm
+Description: radare foundation libraries
+Version: 2.3.0-git
+Requires:
+Libs: -L${libdir} -lr_asm -lr_syscall -lr_lang -lr_util -lr_parse -lr_flag -lr_cons -lr_reg
+Cflags: -I${includedir}/libr

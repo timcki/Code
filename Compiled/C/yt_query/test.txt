@@ -1,0 +1,870 @@
+html >
+   <head >
+       <meta name="generator" content="HTML Tidy for Mac OS X (vers 31 October 2006 - Apple Inc. build 15.18.1), see www.w3.org" >
+       <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript" >
+var __ez=__e
+       <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript" >
+__ez.pel=fun
+       <script type="text/javascript" >
+        var 
+       <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript" >
+function ez_
+       <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript" >
+var ezrpos =
+       <script data-cfasync="false" type="text/javascript" data-pagespeed-no-defer src="//go.ezoic.net/porpoiseant/dall2.js" async >
+       <script data-cfasync="false" type="text/javascript" data-pagespeed-no-defer >
+function epb
+       <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript" >
+window.isEZA
+       <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript" >
+window.ezDis
+       <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript" >
+window.googl
+       <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript" >
+googletag.cm
+       <script type="text/javascript" >
+(function(){
+       <script type="text/javascript" data-cfasync="false" >
+var _ezaq = 
+       <script data-cfasync="false" type="text/javascript" src="/detroitchicago/rochester.js?cb=172-19&v=8" async >
+       <script data-pagespeed-no-defer data-cfasync="false" type="text/javascript" >
+__ez.queue.a
+       <script data-pagespeed-no-defer data-cfasync="false" type="text/javascript" >
+function cre
+       <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+       <title >
+Basic HTML S
+       <style type="text/css" >
+.ezoic-ad.ba
+       <link rel="canonical" href="https://www.sheldonbrown.com/web_sample1.html" >
+       <script data-cfasync="false" type="text/javascript" >
+window.googl
+       <script data-cfasync="false" type="text/javascript" >
+var _gaq = _
+       <script type="text/javascript" >
+var ezouid =
+       <base href="https://sheldonbrown.com/web_sample1.html" >
+       <script type="text/javascript" >
+var ezoTempl
+<!-- STA
+       <script type="text/javascript" >
+var soc_app_
+<!--{jqu
+<!-- END
+       <script data-pagespeed-no-defer data-cfasync="false" type="text/javascript" style="display:none" >
+__ez.queue.a
+       <script data-pagespeed-no-defer data-cfasync="false" type="text/javascript" style="display:none" >
+__ez.queue.a
+   <body bgcolor="white" >
+       <center >
+<!-- Ad Goog
+           <span id="ezoic-pub-ad-placeholder-143" >
+           <table border cellspacing="4" cellpadding="14" >
+               <tbody >
+                   <tr >
+                       <td valign="top" width="48%" >
+                           <center >
+                               <h1 >
+           A Simple Sample Web Page
+
+                               <img src="//www.sheldonbrown.com/images/scb_eagle_contact.jpeg" >
+                               <h4 >
+                   By Sheldon Brown
+
+                               <h2 >
+  Demonstrating a few HTML features
+
+HTML is really a very simple
+                           <p >
+You don't really need to know mu
+                           <p >
+This page shows on the left as i
+                           <h3 >
+                    Line Breaks
+
+HTML doesn't normally use li
+                           <p >
+If you want to put a line break 
+                           <h4 >
+ Starting and Stopping Commands
+
+Most HTML commands come in p
+                           <p >
+Modifiers are sometimes included
+                           <h1 >
+     This is a size "1" heading
+
+                           <h2 >
+     This is a size "2" heading
+
+                           <h3 >
+     This is a size "3" heading
+
+                           <h4 >
+     This is a size "4" heading
+
+                           <h5 >
+     This is a size "5" heading
+
+                           <h6 >
+     This is a size "6" heading
+
+                           <center >
+                               <h4 >
+         Copyright &#169; 1997, by 
+
+                                   <a href="//www.sheldonbrown.com/index.html" >
+                          Sheldon Brown
+
+If you would like to make a link
+                               <br >
+//www.sheldonbrown.com/web_sampl
+                       <td valign="top" bgcolor="gray" width="48%" >
+                           <code >
+                               <a href="#head" >
+                       &lt;HEAD&gt;
+
+                               <br >
+                               <a href="#title" >
+                      &lt;TITLE&gt;
+
+         Basic HTML Sample Page
+
+                               <a href="#title" >
+                     &lt;/TITLE&gt;
+
+                               <br >
+                               <a href="#head" >
+                      &lt;/HEAD&gt;
+
+                           <p >
+                               <code >
+                                   <a href="#body" >
+                               &lt;BODY
+
+                                   
+
+                                   <a href="#bgcolor" >
+                    BGCOLOR="WHITE"&gt;
+
+                                   <br >
+                                   <a href="#center" >
+                         &lt;CENTER&gt;
+
+                                   <br >
+                                   <a href="#h" >
+                             &lt;H1&gt;
+
+           A Simple Sample Web Page
+
+                                   <a href="#h" >
+                            &lt;/H1&gt;
+
+                           <p >
+                               <code >
+                             &nbsp;
+
+                           <p >
+                               <code >
+                            &nbsp; 
+
+                                   <a href="#img" >
+                          &lt;IMG SRC="
+
+//www.sheldonbrown.com/images/scb_ea
+                                   <a href="#img" >
+                                  "&gt;
+
+                           <p >
+                               <code >
+                             &nbsp;
+
+                           <p >
+                               <code >
+                             &nbsp;
+
+                           <p >
+                               <code >
+                            &nbsp; 
+
+                                   <a href="#h" >
+                             &lt;H4&gt;
+
+                   By Sheldon Brown
+
+                                   <a href="#h" >
+                            &lt;/H4&gt;
+
+                           <p >
+                               <code >
+                                   <a href="#h" >
+                             &lt;H2&gt;
+
+  Demonstrating a few HTML features
+
+                                   <a href="#h" >
+                            &lt;/H2&gt;
+
+                           <p >
+                               <code >
+                                   <a href="#center" >
+                        &lt;/CENTER&gt;
+
+                           <p >
+                               <code >
+HTML is really a very simple languag
+                                   <a href="#p" >
+                              &lt;P&gt;
+
+                                   <br >
+                             &nbsp;
+
+                           <p >
+                               <code >
+You don't really need to know much H
+                                   <a href="#p" >
+                              &lt;P&gt;
+
+                                   <br >
+                             &nbsp;
+
+                           <p >
+                               <code >
+This page shows on the left as it ap
+                                   <br >
+                             &nbsp;
+
+                           <p >
+                               <code >
+                             &nbsp;
+
+                           <p >
+                               <code >
+                                   <a href="#h" >
+                             &lt;H3&gt;
+
+                        Line Breaks
+
+                                   <a href="#h" >
+                            &lt;/H3&gt;
+
+                           <p >
+                               <code >
+HTML doesn't normally use line break
+                                   <a href="#p" >
+                              &lt;P&gt;
+
+                           <p >
+                               <code >
+                             &nbsp;
+
+                           <p >
+                               <code >
+If you want to put a line break at a
+                                   <a href="#br" >
+                             &lt;BR&gt;
+
+" command, or, for a paragraph break
+                                   <a href="#p" >
+                              &lt;P&gt;
+
+" command, which will insert a blank
+                                   <a href="#h" >
+                    &lt;4&gt;&lt;/4&gt;
+
+") puts a blank line above and below
+                           <p >
+                               <code >
+                             &nbsp;
+
+                           <p >
+                               <code >
+                                   <a href="#h" >
+                             &lt;H4&gt;
+
+     Starting and Stopping Commands
+
+                                   <a href="#h" >
+                            &lt;/H4&gt;
+
+                           <p >
+                               <code >
+Most HTML commands come in pairs: fo
+                                   <a href="#h" >
+                             &lt;H4&gt;
+
+" marks the beginning of a size 4 he
+                                   <a href="#h" >
+                            &lt;/H4&gt;
+
+" marks the end of it. The closing c
+                                   <a href="#p" >
+                              &lt;P&gt;
+
+                           <p >
+                               <code >
+                             &nbsp;
+
+                           <p >
+                               <code >
+Modifiers are sometimes included alo
+                           <p >
+                               <code >
+                             &nbsp;
+
+                           <p >
+                               <code >
+                             &nbsp;
+
+                           <p >
+                               <code >
+                                   <a href="#h" >
+                             &lt;H1&gt;
+
+         This is a size "1" heading
+
+                                   <a href="#h" >
+                            &lt;/H1&gt;
+
+                           <p >
+                               <code >
+                                   <a href="#h" >
+                             &lt;H2&gt;
+
+         This is a size "2" heading
+
+                                   <a href="#h" >
+                            &lt;/H2&gt;
+
+                           <p >
+                               <code >
+                                   <a href="#h" >
+                             &lt;H3&gt;
+
+         This is a size "3" heading
+
+                                   <a href="#h" >
+                            &lt;/H3&gt;
+
+                           <p >
+                               <code >
+                                   <a href="#h" >
+                             &lt;H4&gt;
+
+         This is a size "4" heading
+
+                                   <a href="#h" >
+                            &lt;/H4&gt;
+
+                           <p >
+                               <code >
+                                   <a href="#h" >
+                             &lt;H5&gt;
+
+         This is a size "5" heading
+
+                                   <a href="#h" >
+                            &lt;/H5&gt;
+
+                           <p >
+                               <code >
+                                   <a href="#h" >
+                             &lt;H6&gt;
+
+         This is a size "6" heading
+
+                                   <a href="#h" >
+                            &lt;/H6&gt;
+
+                           <p >
+                               <code >
+                                   <a href="#center" >
+                         &lt;center&gt;
+
+                           <p >
+                               <code >
+                                   <a href="#h" >
+                             &lt;H4&gt;
+
+          Copyright &#169; 1997, by
+
+                                   <br >
+                                   <a href="#href" >
+                           &lt;A HREF="
+
+  //www.sheldonbrown.com/index.html
+
+                                   <a href="#href" >
+                                  "&gt;
+
+                      Sheldon Brown
+
+                                   <a href="#href" >
+                             &lt;/A&gt;
+
+                                   <a href="#h" >
+                                       <br >
+                            &lt;/H4&gt;
+
+                           <p >
+                               <code >
+If you would like to make a link or 
+                                   <a href="#br" >
+                             &lt;BR&gt;
+
+ //www.sheldonbrown.com/web_sample1.
+                                   <a href="#body" >
+                          &lt;/body&gt;
+
+<!-- ***
+       <blockquote >
+           <dl >
+               <dd >
+                   <a name="head" >
+             &nbsp;
+
+                   <p >
+                 &nbsp;
+
+               <dd >
+                   <h3 >
+&lt;HEAD&gt;&lt;/HEAD&gt
+               <dd >
+              The "
+
+                   <b >
+&lt;HEAD&gt;&lt;/HEAD&gt
+" part of the docume
+                   <a href="web_glossary.html#browser" >
+                browser
+
+ window, but it can 
+                   <a href="web_glossary.html#searchengine" >
+         search engines
+
+                  .
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                       <a name="title" >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+               <dd >
+                   <h3 >
+&lt;TITLE&gt;&lt;/TITLE&
+               <dd >
+The only part of the
+                   <a href="#head" >
+                       <b >
+  &lt;HEAD&gt;&lt;/HEAD&gt;
+
+" that is normally v
+                   <b >
+          &lt;TITLE&gt;
+
+                   <code >
+ Basic HTML Sample Page
+
+                   <b >
+         &lt;/TITLE&gt;
+
+, which usually appe
+                   <b >
+          &lt;TITLE&gt;
+
+                   <b >
+         &lt;/TITLE&gt;
+
+ you have chosen wil
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                       <a name="body" >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+               <dd >
+                   <h3 >
+&lt;BODY&gt;&lt;/BODY&gt
+               <dd >
+The &lt;BODY&gt; is 
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                       <a name="bgcolor" >
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+                   <blockquote >
+                       <dl >
+                           <dd >
+                               <h3 >
+&lt;BODY BGCOLOR="WHITE"&gt;&lt;/BOD
+                           <dd >
+                               <b >
+                         BGCOLOR=""
+
+       is a sub command of the 
+
+                               <b >
+                       &lt;BODY&gt;
+
+ command. It specifies the backg
+                               <a href="web_glossary.html#hextriplet" >
+                 hex triplet number
+
+                              .
+
+                               <p >
+                             &nbsp;
+
+                               <p >
+                             &nbsp;
+
+                   <a name="center" >
+             &nbsp;
+
+                   <p >
+                 &nbsp;
+
+               <dd >
+                   <h3 >
+&lt;CENTER&gt;&lt;/CENTE
+               <dd >
+               The 
+
+                   <b >
+         &lt;CENTER&gt;
+
+ command causes ever
+                   <b >
+        &lt;/CENTER&gt;
+
+ command, which caus
+                   <a href="web_glossary.html#justified" >
+         left-justified
+
+                  .
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                       <a name="img" >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+               <dd >
+                   <h3 >
+  &lt;IMG SRC="..."&gt;
+
+               <dd >
+               The 
+
+                   <b >
+          &lt;IMG SRC="
+
+                   <code >
+//www.sheldonbrown.com/i
+                   <b >
+                  "&gt;
+
+ command places an i
+                   <a href="web_glossary.html#url" >
+                    URL
+
+ or partial address 
+                   <code >
+ scb_eagle_contact.jpeg
+
+", and it resides on
+                   <code >
+                 images
+
+                 ".
+
+                   <p >
+             Since the 
+
+                       <code >
+                      image
+
+ subdirectory is in the 
+                       <br >
+                &nbsp; 
+
+                       <code >
+images/scb_eagle_contact.jpe
+                       <br >
+instead of the full URL:
+                       <br >
+                &nbsp; 
+
+                       <code >
+//www.sheldonbrown.com/image
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                       <a name="h" >
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+               <dd >
+                   <h3 >
+&lt;H1&gt;&lt;/H1&gt;...
+               <dd >
+There are 6 levels o
+                   <b >
+  &lt;H1&gt;&lt;/H1&gt;
+
+ being the largest, 
+                   <b >
+  &lt;H6&gt;&lt;/H6&gt;
+
+ the smallest. Headi
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                       <a name="p" >
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+               <dd >
+                   <h3 >
+              &lt;P&gt;
+
+               <dd >
+                   <b >
+              &lt;P&gt;
+
+ creates a paragraph
+                   <b >
+              &lt;P&gt;
+
+ and the next line.
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                       <a name="href" >
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+               <dd >
+                   <h3 >
+&lt;A HREF="..."&gt;...&
+               <dd >
+                   <b >
+           &lt;A HREF="
+
+                   <code >
+      [destination url]
+
+                   <b >
+                  "&gt;
+
+                   <code >
+[highlighted text/image]
+                   <b >
+             &lt;/A&gt;
+
+ is the command for 
+                   <a href="web_sample1.html#href2" >
+                       <code >
+   [highlighted text/image]
+
+ appears in the docu
+                   <a href="web_sample1.html#href2" >
+                       <code >
+   [highlighted text/image]
+
+ your browser takes 
+                   <code >
+      [destination url]
+
+                  .
+
+                   <p >
+The destination site wou
+                       <code >
+                http://www.
+
+" if the site is an exte
+                       <code >
+           web_sample1.html
+
+, for instance) if the f
+                       <code >
+  webstuff/web_sample1.html
+
+, for instance) if the f
+                   <p >
+       Otpionally, the 
+
+                       <code >
+          [destination url]
+
+          may end with 
+
+                       <code >
+                  #[anchor]
+
+ if it is to point to an
+                       <a href="web_glossary.html#anchor" >
+                     anchor
+
+ point in the destinatio
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+                   <p >
+                       <a name="br" >
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+               <dd >
+                   <h3 >
+             &lt;BR&gt;
+
+               <dd >
+                   <b >
+             &lt;BR&gt;
+
+ creates a line brea
+                   <a href="web_sample1.html#p" >
+              &lt;P&gt;
+
+, except that it doe
+                   <p >
+                 &nbsp;
+
+                   <p >
+                 &nbsp;
+
+       <hr >
+       <center >
+           <h2 >
+               <a href="index.html" >
+Sheldon Brown Web Se
+           <h4 >
+Copyright &#169;
+               <a href="//www.sheldonbrown.com/index.html" >
+      Sheldon Brown
+
+<!-- old cou
+since Septem
+           <h2 >
+<!-- http://auto
+ Updated Sunday,
+If you would
+           <br >
+//www.sheldo
+       <span id="ezoic-pub-ad-placeholder-124" class="ezoic-adpicker-ad" >
+       <div id="sheldonbrown_com-link-h-large-1" class="ezo_link_unit_a" >
+           <span style="display:block !important;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-width:728px;text-align:center !important;" class="ezoic-ad link-h-large-1 adtester-container adtester-container-124" data-ez-name="sheldonbrown_com-link-h-large-1" >
+               <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript" >
+<!-- link-h-larg
+               <ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px" data-ad-client="ca-pub-1229949690989515" data-ad-slot="5234225369" data-ad-channel="4456192018" >
+               <script type="text/javascript" >
+(adsbygoogle = windo
+       <span id="ezoic-pub-ad-placeholder-193" class="ezoic-adpicker-ad" >
+       <span style="display:none !important;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;min-width:250px;text-align:center !important;" class="ezoic-ad box-4 adtester-container adtester-container-193" data-ez-name="sheldonbrown_com-box-4" >
+           <span id="div-gpt-ad-sheldonbrown_com-box-4-0" ezaw="250" ezah="250" style="position:relative;z-index:0;display:none;" class="ezoic-ad" >
+<!--script-place
+       <script type="text/javascript" >
+var ezzns3 =
+       <script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" >
+       <div class="ezflad-47" style="display:inline-block" adunitname="sheldonbrown_com-box-4" id="crt-3" >
+           <script type="text/javascript" >
+var ezoflbf_2_3 
+           <script type="text/javascript" >
+  ezoflbf_3();
+
+
+       <script type="text/javascript" >
+        var 
+<!--ezoi
+       <span id="ezoic-pub-ad-placeholder-196" class="ezoic-adpicker-ad" >
+       <span style="display:block !important;float:none;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:110px;min-width:728px;text-align:center !important;" class="ezoic-ad banner-1 adtester-container adtester-container-196" data-ez-name="sheldonbrown_com-banner-1" >
+           <span id="div-gpt-ad-sheldonbrown_com-banner-1-0" ezaw="728" ezah="90" style="position:relative;z-index:0;display:inline-block;" class="ezoic-ad" >
+               <script data-cfasync="false" type="text/javascript" style="display:none;" >
+eval(ez_write_tag([[
+       <span id="ezoic-pub-ad-placeholder-" class="ezoic-adpicker-ad" >
+<!-- pla
+       <script type="text/javascript" style="display:none;" >
+var __ez_dim
+       <script type="text/javascript" style="display:none;" async >
+__ez.queue.a
+       <div id="dmo1" style="display:none" >
+           <script type="text/javascript" >
+&lt;!--
+        
+           
+
+           <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js" >
+<!--Begi
+       <script type="text/javascript" >
+var _comscor
+       <noscript >
+           <img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1" >
+<!--End 
+<!--Quan
+       <script type="text/javascript" >
+var _qevents
+       <noscript >
+           <div style="display:none;" >
+               <img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.sheldonbrown_com,DomainId.5121" border="0" height="1" width="1" alt="Quantcast" >
+<!--End 
+<!--[sel

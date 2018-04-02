@@ -1,0 +1,31 @@
+#[derive(Clone, Copy)]
+enum MachineState {
+	Nomral,
+	Upper,
+	Lower,
+	Comment
+}
+
+fn machine_cycle(state: MachineState, character: char) -> (Option<char>, MachineState) {
+	use std::ascii::AsciiExt;
+	use MachineState::*;
+
+	match (state, character) {
+		(Normal, '#') => (None, Comment),
+		(Normal, '^') => (None, Upper),
+		(Normal, '_') => (None, Lower),
+
+		(Comment, '#') => (None, Normal),
+		(Upper, '^') => (None, Normal),
+		(Lower, '_') => (None, Normal),
+
+		(Normal, _) => (Some(character), Normal),
+		(Upper, _) => (Some(character.to_ascii_uppercase()), Upper),
+		(Lower, _) => (Some(character.to_ascii_lowercase()), Lower),
+		(Comment, _) => (None, Comment)
+	}
+}
+
+fn run_machine(input: &str) -> String {
+	let mut state = MachineState:
+}

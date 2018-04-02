@@ -1,0 +1,11 @@
+#[derive(Clone, Copy)]
+enum MachineState {
+	Nomral,
+	Upper,
+	Lower,
+	Comment
+}
+
+fn machine_cycle(state: MachineState, character: char) -> (Option<char>, MachineState) {
+	use std::ascii:
+}

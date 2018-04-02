@@ -1,0 +1,1 @@
+Try this route rm -> ls -> mv -> cp -> cat -> du -> df -> *mount & dd optional* -> bash ( your little shell )

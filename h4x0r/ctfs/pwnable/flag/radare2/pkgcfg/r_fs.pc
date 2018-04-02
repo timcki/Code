@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=/usr/lib
+includedir=${prefix}/include
+
+Name: r_fs
+Description: radare foundation libraries
+Version: 2.3.0-git
+Requires:
+Libs: -L${libdir} -lr_fs -lr_util -lr_io
+Cflags: -I${includedir}/libr
