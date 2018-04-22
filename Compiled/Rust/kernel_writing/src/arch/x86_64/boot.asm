@@ -63,7 +63,7 @@ check_long_mode:
     mov eax, 0x80000000 ; set eax to a lot
     cpuid               ; identify cpu by pushing into eax
     cmp eax, 0x80000001 ; which we compare here
-    jb .no_long_mode    ; if less than fuck you
+    jb .no_long_mode    ; if less than jump
 
     mov eax, 0x80000001 ; set eax to a lot + 1
     cpuid

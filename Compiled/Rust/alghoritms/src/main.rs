@@ -12,7 +12,7 @@ fn main() {
 
     let mut x: i32 = 0;
 
-    for fuck in sum_v.iter() { x += *fuck; }
+    for duck in sum_v.iter() { x += *duck; }
 
     println!("{}", x);
 

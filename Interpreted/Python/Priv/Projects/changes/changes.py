@@ -26,7 +26,7 @@ class Changes():
         page = response.read()
         return BeautifulSoup(page, 'html.parser')
 
-    # What the actual fuck
+    # What the actual duck
     def extract_changes(self, soup):
         for table in soup.find_all('table'):
             for change in table('td', class_='record_3'):

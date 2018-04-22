@@ -16,7 +16,7 @@ print('[*] Listening on port {}:{}'.format(bind_ip, bind_port))
 def handle_client(client_socket):
     request = client_socket.recv(4096)
     print('[*] Received {}'.format(request))
-    client_socket.send(b'shit fuck')
+    client_socket.send(b'shit duck')
     client_socket.close()
 
 
