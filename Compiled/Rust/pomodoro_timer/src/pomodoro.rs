@@ -11,7 +11,7 @@ impl Pomodoro {
 
     // Using this struct at the end of a session to write it to a csv file for logging purposes.
     // Using time structs during timing it and then changing it to string to serialize it.
-    // Got tired of lifetimes etc, so resorting to the good old way. ->  Fuck this change to string
+    // Got tired of lifetimes etc, so resorting to the good old way. ->  Change it to string.
     fn new(topic: String, start_time: Option<time::Tm>, end_time: Option<time::Tm>) -> Result<Pomodoro, ()> {
         if let Some(time) = start_time {
             
